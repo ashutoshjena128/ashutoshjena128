@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**ashutoshjena128/ashutoshjena128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ashutosh — a 1st year BCA student at Centurion University, just starting out on my journey to becoming a full stack developer.
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on: basic C programs and small web pages (HTML)
+- 🌱 I'm currently learning: C programming, HTML , c++ and the fundamentals of web development
+- 👯 I'm looking to collaborate on: beginner-friendly coding projects
+- 🤔 I'm looking for help with: Git/GitHub workflows and web development basics
+- 💬 Ask me about: what I'm learning in C++ programming or BCA coursework
+- 📫 How to reach me: ashutoshjena128@gmail.com
+- ⚡ Fun fact: I'm just getting started with GitHub and version control!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- Languages: C , C++ , PYTHON
+- Web: HTML
+- Databases: MySQL
+- Tools: Git, GitHub
+
