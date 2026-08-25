@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Ashutosh — a 1st year BCA student at Centurion University, just starting out on my journey to becoming a full stack developer.
+I'm Ashutosh — a 1st year BCA student at Centurion University, just starting out on my journey to becoming a software developer.
 
 - 🔭 I'm currently working on: basic C programs and small web pages (HTML)
 - 🌱 I'm currently learning: C programming, HTML , c++ and the fundamentals of web development
