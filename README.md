@@ -8,7 +8,6 @@ I'm Ashutosh — a 1st year BCA student at Centurion University, just starting o
 - 🤔 I'm looking for help with: Git/GitHub workflows and web development basics
 - 💬 Ask me about: what I'm learning in C++ programming or BCA coursework
 - 📫 How to reach me: ashutoshjena128@gmail.com
-- ⚡ Fun fact: I'm just getting started with GitHub and version control!
 
 ### 🛠️ Skills
 - Languages: C , C++ , PYTHON
